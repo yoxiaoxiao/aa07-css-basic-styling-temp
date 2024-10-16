@@ -1,37 +1,45 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 66px;
+    font-family: Arial, Helvetica, serif;
+    padding: 15px;
+    margin: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #7F5B44;
+    background-color: none;
+    text-align: center;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    color: ;
-    background-color: ;
+    font-size: 28px;
+    font-family: Arial, serif;
+    padding: 2px;
+    margin: 0px;
+    font-weight: bold;
+    color: #B54D21;
+    background-color: none;
+    text-align: center;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    padding: 1px;
+    margin: 15px auto;
+    color: #261913;
+    background-color: none;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+
 }
 
-.logo {
+/* .logo {
     background-size: cover;
     background-image: url();
     background-color: ;
     height: ;
     width: ;
 }
+*/
+
